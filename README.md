@@ -1,3 +1,9 @@
+> [!WARNING]
+> This project has been abandoned because I ended up not installing Arch Linux on my Let's Note after all.  
+> You can find active forks below — feel free to find your favorite and contribute!
+> - https://github.com/0xNOY/letsnote-wheelpad
+> - https://github.com/anotherwanwanyi/letsnote-wheelpad
+
 # letsnote-wheelpad
 
 > 日本語版は [README.ja.md](README.ja.md) を参照してください。
